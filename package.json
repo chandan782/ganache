@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "web3": "^1.8.1"
+  },
+  "name": "ganache",
+  "version": "1.0.0",
+  "description": "ganache service",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
